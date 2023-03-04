@@ -1,11 +1,7 @@
 #include <SoftwareSerial.h>
 #include <ESP8266WiFi.h>
 #include <TridentTD_LineNotify.h>
-/**
-   NodeMCU v3 (ESP8266)
-   RX = GPIO 5 (D1)
-   TX = GPIO 4 (D2)
-*/
+
 SoftwareSerial arduinocon(D1, D0);
 
 
