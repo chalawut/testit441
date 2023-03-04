@@ -9,7 +9,7 @@ GravityTDS gravityTds;
 
 char auth[] = "eOGuhBSc527iivvG9LWawookXl6irxoX";
 char ssid[] = "LAPTOP-0N2B010N 3481";
-char pass[] = "00000000";
+char pass[] = "123456789";
 
 #define EspSerial Serial3
 #define ESP8266_BAUD 115200
